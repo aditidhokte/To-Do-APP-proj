@@ -2,7 +2,7 @@ tasks = []
 
 while True:
     print("\n1.Add Task 2.View Tasks 3.Mark Complete 4.Delete Task 5.Exit")
-    choice = input("Enter choice: ")
+    choice = input("Enter choice:  ")
 
     if choice == '1':
         task = input("Enter task: ")
